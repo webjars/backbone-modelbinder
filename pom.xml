@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>backbone-modelbinder</artifactId>
-    <version>0.1.7-SNAPSHOT</version>
+    <version>0.1.6-1-SNAPSHOT</version>
     <name>Backbone.ModelBinder</name>
     <description>WebJar for Backbone.ModelBinder</description>
     <url>http://webjars.org</url>
